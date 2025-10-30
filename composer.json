@@ -25,7 +25,7 @@
         "symfony/console": "^5.4 || ^6.0"
     },
     "autoload": {
-        "psr-4": { "Composer\\Satis": "src/" }
+        "psr-0": { "Composer\\Satis": "src/" }
     },
     "autoload-dev": {
         "psr-0": { "Composer\\Test\\Satis": "tests/" }
